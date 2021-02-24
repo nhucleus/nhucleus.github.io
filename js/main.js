@@ -146,7 +146,7 @@ $(window).on('load', function() {
 		function reset_form(){
 		 	$("#name").val('');
 			$("#email").val('');
-			$("#massage").val('');
+			$("#message").val('');
 		}
 
 		$.ajax({
@@ -160,7 +160,7 @@ $(window).on('load', function() {
 					setTimeout(function() {
 						reset_form();
 						send_btn.removeClass('done');
-						send_btn.text('Massage');
+						send_btn.text('Message');
 					}, 2500);
 				}
 				else {
@@ -169,7 +169,7 @@ $(window).on('load', function() {
 					send_btn.text('Error');
 					setTimeout(function() {
 						send_btn.removeClass('error');
-						send_btn.text('Massage');
+						send_btn.text('Message');
 					}, 5000);
 				}
 			}
