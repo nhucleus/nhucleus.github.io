@@ -375,7 +375,13 @@ li, ul {
 	-webkit-text-decoration-style: wavy;
 	        text-decoration-style: wavy;
 }
-.single-progress-item {
+
+.about-section-img {
+	margin-bottom: 35px;
+	position: relative;
+}
+
+/* .single-progress-item {
 	margin-bottom: 35px;
 	position: relative;
 }
@@ -387,8 +393,8 @@ li, ul {
 	letter-spacing: 0;
 	margin-bottom: 0px;
 	color: #333;
-}
-.progress-bar-style {
+} */
+/* .progress-bar-style {
 	display: block;
 	height: 4px;
 	position: relative;
@@ -418,7 +424,7 @@ li, ul {
 	border-radius: 50%;
 	-webkit-box-shadow: 0 0 10px rgba(45, 45, 45, 0.2);
 	        box-shadow: 0 0 10px rgba(45, 45, 45, 0.2);
-}
+} */
 
 
 
