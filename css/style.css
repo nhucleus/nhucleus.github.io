@@ -708,10 +708,14 @@ li, ul {
 	color: #fff;
 }
 .email-link {
+	color: #333;
 	text-decoration: none;
 }
-.email-link:hover:active {
+.email-link:hover {
 	color: rgb(224, 77, 77);
+}
+.email-link:hover:active {
+	color: rgb(141, 65, 65);
 }
 
 
