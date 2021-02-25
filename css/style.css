@@ -381,52 +381,6 @@ li, ul {
 	position: relative;
 }
 
-/* .single-progress-item {
-	margin-bottom: 35px;
-	position: relative;
-}
-.single-progress-item p {
-	font-size: 11px;
-	text-transform: uppercase;
-	font-family: "Montserrat", sans-serif;
-	font-weight: bold;
-	letter-spacing: 0;
-	margin-bottom: 0px;
-	color: #333;
-} */
-/* .progress-bar-style {
-	display: block;
-	height: 4px;
-	position: relative;
-	width: 100%;
-	border-radius: 25px;
-}
-.bar-inner {
-	position: absolute;
-	height: 100%;
-	left: 0;
-	top: 0;
-	border-radius: 25px;
-	background: #333;
-}
-.bar-inner span {
-	position: absolute;
-	right: 0;
-	font-weight: bold;
-	top: -18px;
-	font-size: 10px;
-	width: 35px;
-	height: 35px;
-	padding-top: 11px;
-	letter-spacing: 0px;
-	background: #fff;
-	text-align: center;
-	border-radius: 50%;
-	-webkit-box-shadow: 0 0 10px rgba(45, 45, 45, 0.2);
-	        box-shadow: 0 0 10px rgba(45, 45, 45, 0.2);
-} */
-
-
 
 /* ====================
   Service Section
