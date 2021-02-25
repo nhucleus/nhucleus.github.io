@@ -707,6 +707,12 @@ li, ul {
 	border-color: #e20808;
 	color: #fff;
 }
+.email-link {
+	text-decoration: none;
+}
+.email-link:hover:active {
+	color: rgb(224, 77, 77);
+}
 
 
 
