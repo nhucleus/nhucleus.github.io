@@ -396,6 +396,7 @@ li, ul {
 	border-radius: 5px;
 	-webkit-box-shadow: 0 0 30px rgba(64, 64, 64, 0.1);
 	        box-shadow: 0 0 30px rgba(64, 64, 64, 0.1);
+	height: 300px;
 }
 .service-item .serv-icon {
 	position: absolute;
