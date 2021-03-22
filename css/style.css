@@ -489,7 +489,7 @@ li, ul {
 	margin-bottom: 30px;
 }
 .work-item img {
-	min-width: 100%;
+	width: 900;
 }
 .work-item .work-inner {
 	position: absolute;
